@@ -93,7 +93,7 @@ You'll need [Node.js](https://nodejs.org/) (version 16 or later) and `npm` insta
 ## License
 
 This project is licensed under the MIT License.
-````
+
 
 
 # The Project Idea: Interactive Quiz Application
